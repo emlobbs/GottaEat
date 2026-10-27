@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Gotta Eat — Table for Two",
+  "short_name": "Gotta Eat",
+  "description": "A shared, low-effort meal planner for two.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f7f3",
+  "theme_color": "#315d47",
+  "icons": [
+    { "src": "/icons/gotta-eat-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/gotta-eat-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
